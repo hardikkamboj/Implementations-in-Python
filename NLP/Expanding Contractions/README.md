@@ -8,3 +8,4 @@ Save expand_contarctions.py in the same file where jupyter notebook is running. 
 import the function expand_contraction from expand contraction.py  <br>
 Call the function. 
 
+![Example](img.png)
