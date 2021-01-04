@@ -6,6 +6,6 @@
 # To use this in your jupyter notebook - 
 Save expand_contarctions.py in the same file where jupyter notebook is running. <br>
 import the function expand_contraction from expand contraction.py  <br>
-Call the function. 
+Call the function and pass in the sentence.
 
 ![Example](img.png)
