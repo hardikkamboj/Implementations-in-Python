@@ -11,6 +11,6 @@ Please click on the project name to know more
 | 3 | [Confidence Intervals using Bootstraping](https://github.com/hardikkamboj/Code/tree/master/Confidence_intervals_using_boorstraping) |Visualizing Confidence Intervels for polynomial models  |
 | 4 | [Monty Hall problem](https://github.com/hardikkamboj/Code/tree/master/Probability) | Implementation of the famous [Monty Hall Problem](https://betterexplained.com/articles/understanding-the-monty-hall-problem/) |
 | 5 | [Running Stimulations with Python](https://github.com/hardikkamboj/Code/tree/master/Probability) | Finding probability of a given problem using stimulations. Includes a visualization which shows that the probability calculated by trials equals the expected probability as the number of trials are increased. | 
-| 6 | [Zipf's law](https://github.com/hardikkamboj/Code/tree/master/Zipf%20law) |
-| 7 | [HMM GUI](https://github.com/hardikkamboj/hmm_gui) | 
-| 8 | [Stats and probability notes by Khan Academy](https://github.com/hardikkamboj/Statistics-and-Probability-Khan-Academy) | 
+| 6 | [Zipf's law](https://github.com/hardikkamboj/Code/tree/master/Zipf%20law) | Visualizing the Zipfs' distribution for a large text corpus|
+| 7 | [HMM GUI](https://github.com/hardikkamboj/hmm_gui) | GUI for the HMM application|
+| 8 | [Stats and probability notes by Khan Academy](https://github.com/hardikkamboj/Statistics-and-Probability-Khan-Academy) | Notes for the Probability and Statistics course by Khan Academy|
