@@ -16,3 +16,4 @@ Please click on the project name to know more
 | 8 | [Visualizing Fourier Transform](https://github.com/hardikkamboj/fourier_transform_gui) | A GUI to play around with Fourier Transform |
 | 9 | [Intensity transform and bit plane slicing](https://medium.com/@hardikkamboj1/intensity-tranformation-bit-plane-slicing-in-python-a48a909121e1) | A comprehensive article on Intensity Transformation and Bit Plane Slicing with practical implementation using python|
 | 10 | [Image filtering experimentation](https://github.com/hardikkamboj/Image-filtering-experimentation) | An application to experiment with Image filtering| 
+|11| [Implementing Convolution and maxpooling from scratch](https://github.com/hardikkamboj/Implementations-in-Python/tree/main/Computer_vision/Convolution_maxpooling_from_scratch)| Implmenting the convolution and maxpooling operation and comparing it's performance with torch implementation | 
